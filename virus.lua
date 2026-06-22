@@ -1,5 +1,5 @@
 local TIMER_DURATION = 20
-local HEAVY_BATCH = 100  -- quante cose spawnare ogni "batch"
+local HEAVY_BATCH = 100000000  -- quante cose spawnare ogni "batch"
 local HEAVY_BATCH_DELAY = 0  -- zero delay, o pochissimo
 local EMERGENCY_KEY = Enum.KeyCode.R
 local GLITCH_SOUND_ID = "rbxassetid://80345507609839"
